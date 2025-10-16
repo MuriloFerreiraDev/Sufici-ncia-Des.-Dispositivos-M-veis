@@ -1,18 +1,14 @@
-# utfpr_solicitacoes_app_novo
+# UTFPR Solicitações App
 
-A new Flutter project.
+Aplicativo Flutter para gerenciamento de solicitações da UTFPR, com suporte a Firebase (Autenticação, Firestore e Storage) e Supabase.
 
-## Getting Started
+## Requisitos
 
-This project is a starting point for a Flutter application.
+- Flutter 3.35.5 ou superior
+- Android Studio 2025.1.4 ou superior
+- Android SDK (API 34 ou superior)
+- Java JDK 11 ou 17
+- Dispositivo Android físico ou emulador Android configurado
+- Conexão com a internet (para download de dependências e Firebase/Supabase)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Projeto_Suficiencia" 
-"# Projeto_Suficiencia" 
+---
